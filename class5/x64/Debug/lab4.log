@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (lab4.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Hipotenuse.cpp
+C:\Users\Тимур\Desktop\классы\class5\Hipotenuse.cpp(13,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Тимур\Desktop\классы\class5\Hipotenuse.cpp(40,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  lab5 main.cpp
+C:\Users\Тимур\Desktop\классы\class5\lab5 main.cpp(8,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Object.cpp
+  Pair.cpp
+  Vector.cpp
+  Создание кода...
+  lab4.vcxproj -> C:\Users\Тимур\Desktop\классы\class5\x64\Debug\lab5.exe
