@@ -1,0 +1,9 @@
+﻿  lab7.cpp
+C:\Users\Тимур\Desktop\классы\class7\lab7.cpp(33,30): error C2593: неоднозначный "оператор +"
+C:\Users\Тимур\Desktop\классы\class7\Vector.h(40,12): message : может быть "Vector<Time> Vector<Time>::operator +(const Vector<Time> &) const"
+C:\Users\Тимур\Desktop\классы\class7\Vector.h(25,19): message : или       "Vector<Time> Vector<Time>::operator +(const Vector<Time> &,const Vector<Time> &)" [найдено при поиске с зависимостью от аргументов]
+C:\Users\Тимур\Desktop\классы\class7\lab7.cpp(33,30): message : при попытке сопоставить список аргументов "(Vector<Time>, Vector<Time>)"
+C:\Users\Тимур\Desktop\классы\class7\lab7.cpp(35,29): error C2593: неоднозначный "оператор +"
+C:\Users\Тимур\Desktop\классы\class7\Vector.h(40,12): message : может быть "Vector<int> Vector<int>::operator +(const Vector<int> &) const"
+C:\Users\Тимур\Desktop\классы\class7\Vector.h(25,19): message : или       "Vector<int> Vector<int>::operator +(const Vector<int> &,const Vector<int> &)" [найдено при поиске с зависимостью от аргументов]
+C:\Users\Тимур\Desktop\классы\class7\lab7.cpp(35,29): message : при попытке сопоставить список аргументов "(Vector<int>, Vector<int>)"
