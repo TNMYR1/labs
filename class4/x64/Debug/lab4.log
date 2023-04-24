@@ -1,0 +1,8 @@
+﻿  Hipotenuse.cpp
+C:\Users\Тимур\Desktop\классы\class4\Hipotenuse.cpp(13,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Тимур\Desktop\классы\class4\Hipotenuse.cpp(40,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  lab4 main.cpp
+C:\Users\Тимур\Desktop\классы\class4\lab4 main.cpp(5,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Pair.cpp
+  Создание кода...
+  lab4.vcxproj -> C:\Users\Тимур\Desktop\классы\class4\x64\Debug\lab4.exe
