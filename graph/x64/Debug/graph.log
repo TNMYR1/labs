@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\Тимур\Desktop\классы\graph\Source.cpp(198,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Тимур\Desktop\классы\graph\Source.cpp(196): message : во время компиляции функции-члена класс шаблон "void Graph<int>::Dijkstra(T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Тимур\Desktop\классы\graph\Source.cpp(283): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::Dijkstra(T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Тимур\Desktop\классы\graph\Source.cpp(259): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+C:\Users\Тимур\Desktop\классы\graph\Source.cpp(115,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Тимур\Desktop\классы\graph\Source.cpp(114): message : во время компиляции функции-члена класс шаблон "void Graph<int>::print(void)"
+C:\Users\Тимур\Desktop\классы\graph\Source.cpp(279): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::print(void)"
+  graph.vcxproj -> C:\Users\Тимур\Desktop\классы\graph\x64\Debug\graph.exe
